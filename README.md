@@ -26,7 +26,8 @@ README.md
 ```
 
 ## 📸 Screenshot
-(Add screenshot here later)
+(![game](https://github.com/user-attachments/assets/d206ef00-cb7c-4b7a-b1a6-e6d9bbd1b065)
+)
 
 ## 👩‍💻 Author
 Vyshnavi
