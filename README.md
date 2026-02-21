@@ -30,3 +30,7 @@ README.md
 
 ## 👩‍💻 Author
 Vyshnavi
+## 📸 Screenshot
+
+![Game Screenshot](![game](https://github.com/user-attachments/assets/52515a26-9ba6-4c56-9989-071059682f69)
+)
